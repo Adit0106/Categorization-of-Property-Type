@@ -37,3 +37,5 @@ able to understand which attributes are the strongest predictors of property_typ
 
 - Developed and evaluated 30 ML models using 5 classification algorithms and 5 Feature Selection Methods to achieve an average accuracy of 88.16%, with Random Forest model outperforming other models across multiple attribute selection methods
 
+## LICENSE: 
+[MIT](https://choosealicense.com/licenses/mit/)
